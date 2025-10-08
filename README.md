@@ -5,3 +5,32 @@ yo this is a small console app I made where you can create an adventurer profile
 run it in any C++ compiler and it should work. enjoy lol
 
 I might add a direct executable thingy in releases, so watch out buddy.
+
+
+## build instructions
+
+to build cyin from source:
+
+### windows
+- make sure you have a c++ compiler installed (mingw or visual studio).
+- open terminal or cmd in the project folder.
+- run:
+  ```
+   g++ cyin.cpp -o cyin
+  ```
+  run the game:
+  ```
+    ./cyin
+  ```
+### linux / macos
+  - open terminal in the project folder.
+  - make sure g++ is installed. (on ubuntu/debian: sudo apt install g++)
+  - build the game:
+  ```
+    g++ cyin.cpp -o cyin
+  ```
+  run it:
+  ```
+    ./cyin
+  ```
+no external libraries needed, it only uses the c++ standard library.
