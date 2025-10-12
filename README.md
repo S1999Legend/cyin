@@ -9,6 +9,10 @@ I might add a direct executable thingy in releases, so watch out buddy.
 
 ## build instructions
 
+Here's a video of build process on Linux, same goes for Mac users.
+
+[LINK](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6ad1e52ebfff8b1ce6328ca8f08d36aeddae4d80_video.mp4)
+
 to build cyin from source:
 
 ### windows
